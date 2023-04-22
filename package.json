@@ -1,5 +1,5 @@
 {
-  "name": "vanillajs-hello",
+  "name": "excuse-generator",
   "version": "1.0.0",
   "description": "Professional Boilerplate for Vanilla.js Web Apps",
   "private": true,
@@ -62,5 +62,6 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "main": "src/isrc/index.html"
 }
